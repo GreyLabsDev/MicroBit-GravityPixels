@@ -12,6 +12,9 @@ In this code you can see how to use BBC Micro:bit and JavaScript to create your 
 * https://www.instagram.com/p/BejqJL7FrlO/
 * https://www.instagram.com/p/BeGZP2Ml-I_/
 
+### My realization (video)
+- https://www.instagram.com/p/Bf3nySmjE7Y/
+
 ### Useful links
 - Micro:bit main page - https://microbit.org
 - Micro:bit web IDE - https://makecode.microbit.org
